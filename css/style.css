@@ -125,3 +125,12 @@ ul {
     transform: translate(0, -100%);
 }
 
+.card_order_btn_txt {
+    position: absolute;
+    bottom: 4px;
+    z-index: -1;
+    left: 35%;
+    font-size: 11px;
+    color: #A9A9A9;
+}
+
