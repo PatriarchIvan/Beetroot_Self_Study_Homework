@@ -54,7 +54,7 @@ body {
     opacity: 0;
     content: '';
     position: absolute;
-    width: 100px;
+    width: 102px;
     height: 30px;
     top: 15px;
     right: -80px;
@@ -73,7 +73,7 @@ sub {
     opacity: 0.6;
 }
 
-ul {
+li {
     font-family: 'Roboto';
 }
 
